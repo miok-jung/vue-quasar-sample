@@ -35,6 +35,12 @@ const sidebar: sidebarType[] = [
     path: 'typography',
     icon: 'mdi-format-text',
   },
+  {
+    title: 'Table',
+    caption: 'How to use Table',
+    path: 'table',
+    icon: 'mdi-table',
+  },
 ];
 
 const leftDrawerOpen = ref(false);
